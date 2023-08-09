@@ -1,0 +1,41 @@
+"ui.background" = {bg="background"}
+"ui.text" = "foreground"
+"ui.linenr" = {bg="background", fg="accent_light"}
+"ui.linenr.selected" = {bg="background", fg="accent_light"}
+"ui.selection" = {bg="bg_accent"}
+"ui.cursorline" = {bg="bg_accent"}
+"ui.statusline" = {bg="bg_accent", fg="foreground"}
+# "ui.virtual" = "indent"
+"ui.virtual.ruler" = { bg = "bg_accent" }
+"ui.cursor.match" = {bg="bg_accent"}
+"ui.cursor" = {bg="accent_light", fg="foreground"}
+"ui.debug" = {fg="accent_dark"}
+# "ui.highlight.frameline" = {bg="#da8581"}
+"string" = "accent_dark"
+"constant" = "accent_dark"
+"comment" = {modifiers=["bold"]}
+"keyword" = {fg="accent_dark", modifiers=["italic"]}
+"type" = "accent_dark"
+"ui.help" = {bg="bg_accent", fg="foreground"}
+"ui.popup" = {bg="bg_accent", fg="foreground"}
+"ui.menu" = {bg="bg_accent", fg="foreground"}
+"ui.menu.selected" = {modifiers=["bold"]}
+"ui.window" = {bg="background"}
+"diagnostic.error" = {bg="accent_light", fg="foreground", modifiers=["bold"]}
+"diagnostic.warning" = {bg="accent_light", fg="foreground", modifiers=["bold"]}
+"diagnostic.hint" = {modifiers=["bold"]}
+# "ui.bufferline" = { fg = "black", bg = "acme_bar_bg" }
+# "ui.bufferline.active" = { fg = "black", bg = "acme_bg" }
+"diff.plus" = {fg = "green", modifiers=["bold"]}
+"diff.delta" = {modifiers=["bold"]}
+"diff.minus" = {fg = "red", modifiers=["bold"]}
+
+[palette]
+background = "#eef4d4"
+foreground = "#1c2826"
+bg_accent = "#daefb3"
+accent_light = "#ea9e8d"
+accent_dark = "#d64550"
+# TODO change these
+green = "#00ff00"
+red = "#ff0000"
