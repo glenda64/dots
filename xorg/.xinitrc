@@ -30,4 +30,5 @@ then
 	done
 fi
 
+xwallpaper --zoom /home/glenda/wall.jpg
 exec i3
