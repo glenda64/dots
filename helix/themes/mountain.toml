@@ -1,0 +1,39 @@
+"ui.background" = {bg="black"}
+"ui.text" = "white"
+"ui.linenr" = {bg="black", fg="light_grey"}
+"ui.linenr.selected" = {bg="black", fg="light_grey"}
+"ui.selection" = {bg="blurple"}
+"ui.cursorline" = {bg="blurple"}
+"ui.statusline" = {bg="blue", fg="black"}
+"ui.virtual.ruler" = {bg="blue", fg="black"}
+"ui.cursor.match" = {fg="blue", modifiers=["underlined"]}
+"ui.cursor" = {bg="blue", fg="black"}
+"ui.debug" = {fg="black"}
+"ui.help" = {bg="blurple", fg="white"}
+"ui.popup" = {bg="blurple", fg="white"}
+"ui.menu" = {bg="blurple", fg="white"}
+"ui.menu.selected" = {modifiers=["bold", "underlined"]}
+"ui.window" = {bg="blurple"}
+"diagnostic.error" = {bg="light_grey", fg="white", modifiers=["bold"]}
+"diagnostic.warning" = {bg="light_grey", fg="white", modifiers=["bold"]}
+"diagnostic.hint" = {modifiers=["bold"]}
+
+"diff.plus" = {fg = "green", modifiers=["bold"]}
+"diff.delta" = {modifiers=["bold"]}
+"diff.minus" = {fg = "red", modifiers=["bold"]}
+
+"string" = "blue"
+"constant" = "blue"
+"comment" = {fg="light_grey", modifiers=["bold", "italic"]}
+"keyword" = "light_grey"
+"type" = "light_grey"
+
+[palette]
+black = "#2b2b2b"
+white = "#ffffff"
+light_grey = "#9898b5"
+blue = "#7f8fe0"
+blurple = "#3a3d5e"
+# TODO change these
+green = "#00ff00"
+red = "#ff0000"

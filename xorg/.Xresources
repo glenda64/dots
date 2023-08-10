@@ -1,0 +1,22 @@
+XTerm.termName: xterm-256color
+XTerm.vt100.deleteIsDEL: false
+XTerm.vt100.scrollBar: false
+XTerm.vt100.faceName: Cascadia Code:size=9
+XTerm.vt100.foreground: rgb:ff/ff/ff
+XTerm.vt100.background: rgb:2b/2b/2b
+XTerm.vt100.color0: rgb:ff/ff/ff
+XTerm.vt100.color1: rgb:ff/ff/ff
+XTerm.vt100.color2: rgb:ff/ff/ff
+XTerm.vt100.color3: rgb:ff/ff/ff
+XTerm.vt100.color4: rgb:ff/ff/ff
+XTerm.vt100.color5: rgb:ff/ff/ff
+XTerm.vt100.color6: rgb:ff/ff/ff
+XTerm.vt100.color7: rgb:ff/ff/ff
+XTerm.vt100.color8: rgb:ff/ff/ff
+XTerm.vt100.color9: rgb:ff/ff/ff
+XTerm.vt100.color10: rgb:ff/ff/ff
+XTerm.vt100.color11: rgb:ff/ff/ff
+XTerm.vt100.color12: rgb:ff/ff/ff
+XTerm.vt100.color13: rgb:ff/ff/ff
+XTerm.vt100.color14: rgb:ff/ff/ff
+XTerm.vt100.color15: rgb:ff/ff/ff
